@@ -21,7 +21,7 @@
     "jquery": "^3.4.1",
     "lodash.compact": "^3.0.1",
     "lodash.pickby": "^4.6.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "postcss-modules": "^1.4.1",
     "postcss-prefix-selector": "^1.7.1",
     "react": "^16.12.0",
